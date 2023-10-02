@@ -1,0 +1,1 @@
+import{S as l,i as u,s as c,g as a,o as p,p as i}from"./index.8367c709.js";function f(t,o,s){let n,r;return a(t,p,e=>s(0,n=e)),a(t,i,e=>s(1,r=e)),r("../../v1/"+n,null,!0,!0),[]}class b extends l{constructor(o){super(),u(this,o,f,null,c,{})}}export{b as default};
